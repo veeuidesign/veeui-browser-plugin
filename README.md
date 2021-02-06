@@ -1,2 +1,2 @@
-# veeui-chrome
-vee ui chrome plugin
+# veeui-browser-plugin
+vee ui browser plugin
